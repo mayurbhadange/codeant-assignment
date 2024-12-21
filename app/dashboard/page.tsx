@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import {
   Sheet,
@@ -24,7 +23,6 @@ import {
   HomeIcon as House,
   Cloud,
   BookText,
-  Database,
   Phone,
 } from "lucide-react";
 import Link from "next/link";
